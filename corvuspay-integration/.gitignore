@@ -1,0 +1,20 @@
+# VS
+*.dll
+*.txt
+*.cache
+*.nupkg
+*.props
+*.xml
+*.ps1
+*.rtf
+*.targets
+*.exe
+*.csproj
+*.suo
+*.sln
+*.pdb
+*.xdt
+*.config
+*.user
+
+
